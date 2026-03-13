@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="No Optimization" />
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IOCP Echo Server/IOCP Echo Server.vcxproj" Id="3974402c-c9c4-41a3-a333-2042ab2b7f9f" />
+  <Project Path="Logger/Logger.vcxproj" Id="dae4032b-5339-4a1a-9bfa-2b6f56fb2a31" />
+  <Project Path="RingBuffer/RingBuffer.vcxproj" Id="78767fc7-6143-43d0-9cc5-aa1a0b697692" />
+  <Project Path="Select MMO Server/Select MMO Server.vcxproj" Id="99aa4196-8b39-4d40-837b-e9e21318ef6d" />
+  <Project Path="TCP Client/TCP Client.vcxproj" Id="816fc13e-c85d-495d-b26f-2fdf7416655d" />
+</Solution>
